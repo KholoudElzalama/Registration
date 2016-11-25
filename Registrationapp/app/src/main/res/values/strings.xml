@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Registration app</string>
+    <string name="action_settings">Settings</string>
+    <string name="admin_auth">HU1hGB1H73etLpacr3LSoYBrtoI2</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="selectDepartment">Select department</string>
+    <string name="selectLevel">Select Level</string>
+    <string name="selectname">Select name of the course</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Departments">
+        <item>SW</item>
+        <item>IT</item>
+        <item>IS</item>
+        <item>CS</item>
+
+    </string-array>
+    <string-array name="Levels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+</resources>
